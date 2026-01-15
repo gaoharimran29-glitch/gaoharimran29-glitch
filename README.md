@@ -52,15 +52,6 @@ that work in real-world conditions — from data preparation to deployment.
 - Designing **production-ready ML pipelines**
 - Deploying AI models using **AWS**
 - Improving efficiency, latency, and scalability
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaoharimran29-glitch&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaoharimran29-glitch&layout=compact&theme=tokyonight)
-
 ---
 
 ## My Approach to Learning
