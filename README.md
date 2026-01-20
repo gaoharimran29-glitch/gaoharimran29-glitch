@@ -65,7 +65,6 @@ that work in real-world conditions — from data preparation to deployment.
 
 ## Connect
 
-- GitHub: https://github.com/GAOHARIMRAN
 - LinkedIn: https://www.linkedin.com/in/gaohar-imran-5a4063379/
 
 If my work helps you, feel free to star a repository.
