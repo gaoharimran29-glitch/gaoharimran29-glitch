@@ -1,65 +1,61 @@
 # Hi, I'm Gaohar Imran 👋
 
-I build **end-to-end AI solutions** using Machine Learning and Deep Learning.
+I build intelligent systems at the intersection of **Machine Learning and Generative AI**.
 
-My focus is not just on training models, but on designing **complete AI systems**
-that work in real-world conditions — from data preparation to deployment.
-
----
-
-## What Defines My Work
-
--  Building **applied ML / DL systems**, not just experiments
--  Handling the **entire AI lifecycle**: data → model → inference → deployment
--  Turning ideas into **working, usable AI products**
--  Optimizing models for **performance, reliability, and scalability**
-
-> _A trained model is only valuable when it can be used._
+My work focuses on designing reliable, end-to-end AI systems — especially 
+Retrieval-Augmented Generation (RAG), LLM evaluation, and real-world ML deployment.
 
 ---
 
-## Technical Skill Set
+## What I Work On
 
-### Machine Learning & Deep Learning
-- Convolutional Neural Networks (CNNs)
-- Transfer Learning (MobileNet, etc.)
-- NLP (Text Classification, Fake News Detection)
-- Model evaluation, tuning, and optimization
+- Designing **RAG pipelines** to reduce LLM hallucinations
+- Building **evaluation frameworks** for model reliability
+- Developing complete ML systems: data → training → inference → deployment
+- Deploying scalable AI applications using cloud infrastructure
 
-### Tools & Frameworks
-- Python  
-- TensorFlow / Keras  
-- OpenCV  
-- NumPy | Pandas | Matplotlib  
-
-### Cloud & Deployment (AWS)
-- AWS EC2 for model hosting
-- AWS S3 for data and model storage
-- Deploying ML models for real-time inference
-- Scalable AI system design on cloud
-
-### End-to-End AI Workflow
-- Data collection & preprocessing  
-- Model training & validation  
-- Real-time inference pipelines  
-- Cloud deployment & monitoring  
+> A model is only useful when it is reliable, grounded, and deployable.
 
 ---
 
-## Current Focus
+## Technical Focus
 
-- Building **real-time AI applications**
-- Designing **production-ready ML pipelines**
-- Deploying AI models using **AWS**
-- Improving efficiency, latency, and scalability
+### Machine Learning & Generative AI
+- Retrieval-Augmented Generation (RAG)
+- LLM evaluation & hallucination analysis
+- CNN-based feature extraction
+- NLP pipelines & text classification
+- Model optimization and validation
+
+### Tools & Stack
+- Python
+- Transformers (HuggingFace)
+- LangChain
+- TensorFlow / Keras
+- NumPy, Pandas, Scikit-learn
+
+### Deployment & Systems
+- AWS (EC2, S3)
+- Docker
+- API-based model serving
+- Scalable inference pipelines
+
 ---
 
-## My Approach to Learning
+## Current Direction
 
-- Learn by building
-- Prefer systems over isolated code
-- Focus on fundamentals + execution
-- Improve consistently, step by step
+- Improving factual grounding in LLM systems
+- Building production-ready AI pipelines
+- Studying system design for ML infrastructure
+- Strengthening mathematical foundations behind ML
+
+---
+
+## Learning Philosophy
+
+- Build > Consume  
+- Systems > Scripts  
+- Depth > Hype  
 
 ---
 
@@ -67,4 +63,4 @@ that work in real-world conditions — from data preparation to deployment.
 
 - LinkedIn: https://www.linkedin.com/in/gaohar-imran-5a4063379/
 
-If my work helps you, feel free to star a repository.
+If you find something useful in my repositories, feel free to ⭐ it.
