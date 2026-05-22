@@ -1,66 +1,52 @@
 # Hi, I'm Gaohar Imran 👋
 
-I build intelligent systems at the intersection of **Machine Learning and Generative AI**.
-
-My work focuses on designing reliable, end-to-end AI systems — especially 
-Retrieval-Augmented Generation (RAG), LLM evaluation, and real-world ML deployment.
+I build intelligent systems at the intersection of **Machine Learning** and **Generative AI** —
+focused on making AI reliable, grounded, and actually deployable in the real world.
 
 ---
 
 ## What I Work On
 
-- Designing **RAG pipelines** to reduce LLM hallucinations
-- Building **evaluation frameworks** for model reliability
-- Developing complete ML systems: data → training → inference → deployment
-- Deploying scalable AI applications using cloud infrastructure
+- **RAG Pipelines** — designing retrieval systems that reduce LLM hallucinations
+- **LLM Evaluation** — building frameworks to measure model reliability and factual accuracy
+- **End-to-End ML Systems** — data → training → inference → deployment
+- **MCP Servers** — extending AI models with real-world tool capabilities
+- **Scalable AI Applications** — cloud-native deployment on production infrastructure
 
-> A model is only useful when it is reliable, grounded, and deployable.
-
----
-
-## Technical Focus
-
-### Machine Learning & Generative AI
-- Retrieval-Augmented Generation (RAG)
-- LLM evaluation & hallucination analysis
-- CNN-based feature extraction
-- NLP pipelines & text classification
-- Model optimization and validation
-
-### Tools & Stack
-- Python
-- Transformers (HuggingFace)
-- LangChain
-- TensorFlow / Keras
-- NumPy, Pandas, Scikit-learn
-
-### Deployment & Systems
-- AWS (EC2, S3)
-- Docker
-- API-based model serving
-- Scalable inference pipelines
+> *A model is only useful when it's reliable, grounded, and deployable.*
 
 ---
 
-## Current Direction
+## Technical Stack
+
+**AI & ML**
+Python · HuggingFace Transformers · LangChain · FastMCP · TensorFlow · Keras · Scikit-learn
+
+**Data & NLP**
+NumPy · Pandas · NLP Pipelines · Text Classification · CNN-based Feature Extraction
+
+**Deployment & Infrastructure**
+AWS (EC2, S3) · Docker · REST APIs · Scalable Inference Pipelines
+
+---
+
+## Current Focus
 
 - Improving factual grounding in LLM systems
 - Building production-ready AI pipelines
-- Studying system design for ML infrastructure
-- Strengthening mathematical foundations behind ML
+- AI-powered tooling with Model Context Protocol (MCP)
+- Strengthening mathematical foundations of ML
 
 ---
 
-## Learning Philosophy
+## Philosophy
 
-- Build > Consume  
-- Systems > Scripts  
-- Depth > Hype  
+**Build > Consume · Systems > Scripts · Depth > Hype**
 
 ---
 
-## Connect
+## Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/gaohar-imran-5a4063379/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaohar_Imran-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/gaohar-imran-5a4063379/)
 
-If you find something useful in my repositories, feel free to ⭐ it.
+If something in my repositories helped you, a ⭐ means a lot.
