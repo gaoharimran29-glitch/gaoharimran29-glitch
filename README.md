@@ -37,7 +37,7 @@
 ### Organizations
 
 <p align="left">
-  <a href="https://github.com/YOUR_ORG_NAME">
+  <a href="https://github.com/AynOps">
     <img src="https://img.shields.io/badge/Organization-AynOps-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
