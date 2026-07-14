@@ -1,3 +1,7 @@
+<p align="center">
+  <img height="90%" width="100%" alt="1771080571852" src="https://github.com/user-attachments/assets/2894482d-3f0e-488a-a588-468a0b2db7ca" />
+</p>
+
 <h1 align="center">Hi, I'm Gaohar Imran 👋</h1>
 
 <h3 align="center">Building intelligent systems at the intersection of Machine Learning & Generative AI</h3>
