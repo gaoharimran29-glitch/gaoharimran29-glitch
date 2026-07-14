@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" height="70%" alt="1771080571852" src="https://github.com/user-attachments/assets/fcbaed0c-8216-4e53-9779-59dd7c0d3419" />
+  <img width="100%" height="70%" alt="1771080571852" src="https://github.com/user-attachments/assets/fcbaed0c-8216-4e53-9779-59dd7c0d3419" />
 </p>
 
 <h1 align="center">Hi, I'm Gaohar Imran 👋</h1>
