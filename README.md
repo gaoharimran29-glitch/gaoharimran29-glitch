@@ -17,7 +17,7 @@
   <a href="mailto:gaoharimran3@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/18RTs9Z_ykuzpjFH-Y83Wkeljdopvz_ot/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1w3VAn7gkO57dcWILtArnlM6kk68K2nNQ/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-View_CV-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white" />
   </a>
 </p>
