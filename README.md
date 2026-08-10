@@ -17,7 +17,7 @@
   <a href="mailto:gaoharimran3@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1w3VAn7gkO57dcWILtArnlM6kk68K2nNQ/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1lAyIRiZhtiU3rybot01d83imnjuBnefM/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-View_CV-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white" />
   </a>
 </p>
@@ -33,15 +33,18 @@
 
 > *"A model is only useful when it's reliable, grounded, and deployable."*
 
-- Designing **RAG pipelines** that reduce LLM hallucinations
-- Building **LLM evaluation frameworks** to measure factual accuracy & reliability
-- Engineering **end-to-end ML systems** — data → training → inference → deployment
-- Extending AI models with real-world tool use via **MCP Servers**
-- Deploying **scalable AI applications** on production-grade infrastructure
+- Building RAG systems with an emphasis on grounding, retrieval quality, and reducing hallucinations
+- Developing LLM evaluation workflows to measure factuality, relevance, and response quality
+- Engineering end-to-end ML systems across data processing, model inference, APIs, and deployment
+- Building MCP servers and AI tooling that allow LLMs to interact with real-world tools and systems
+- Working with LangGraph and agentic workflows for multi-step AI applications
+- Deploying AI applications using Docker, cloud infrastructure, and production-oriented backend architectures
 
 ---
 
-### Organizations
+## Open Source Contributions
+
+### Maintainer
 
 <p align="left">
   <a href="https://github.com/AynOps">
@@ -49,11 +52,37 @@
   </a>
 </p>
 
-I founded and maintain **[AynOps](https://github.com/AynOps)** — an open-source initiative focused on performing reconn scan using MCP
+I founded and maintain **[AynOps](https://github.com/AynOps)** — an open-source MCP server for reconnaissance and security analysis.
+As a maintainer, I:
+
+As a maintainer, I:
+
+* Design and open [**bug reports and enhancement issues**](https://github.com/AynOps/AynOps/issues)
+* Investigate bugs, identify edge cases, and improve [**issue reports**](https://github.com/AynOps/AynOps/issues)
+* Review and test community [**pull requests**](https://github.com/AynOps/AynOps/pulls)
+* Maintain and expand the project's [**test suite**](https://github.com/AynOps/AynOps/tree/main/tests)
+* Improve [**documentation**](https://github.com/AynOps/AynOps#readme) and contributor experience
+* Help contributors understand issues and make focused contributions
+* Maintain the project's [**architecture and MCP tools**](https://github.com/AynOps/AynOps/tree/main/tools)
+* Maintain [**CI workflows and automated checks**](https://github.com/AynOps/AynOps/tree/main/.github/workflows)
+* Track project development through [**releases and changes**](https://github.com/AynOps/AynOps/releases)
 
 ---
 
-### Tech Stack
+### Contributions
+
+- **[LogLense](https://github.com/InukaWijerathna/LogLense)** — Contributor. Added **8+ new CLI subcommands** across repository scanning, log parsing, filtering, file statistics, language detection, Git analysis, and monitoring workflows. Improved command-line usability with new options, output handling, and UI/UX enhancements, while adding and updating tests to ensure the new functionality remains reliable.
+- **[py-simple-wrap](https://github.com/sara-czasak/py-simple-wrap)** — Collaborator. Contributed **utility functions and test coverage** to improve the project's functionality and reliability. Worked on edge cases and validation through automated tests, helping strengthen the library's behavior and maintainability.
+- **[anthropics/modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector)** — Investigated and reported a [JSON editor serialization bug affecting nullable parameters](https://github.com/modelcontextprotocol/inspector/issues/1885), where null values could be transformed into incorrectly escaped JSON through repeated editing. Documented the reproduction steps, expected vs. actual behavior, and impact to help maintainers reproduce and resolve the issue.
+- **Other open-source contributions** — 50+ PRs across 20+ repositories, spanning Docker, CI/CD, testing, backend fixes, and developer tooling. [Explore my pull requests →](https://github.com/pulls?q=is%3Apr+author%3Agaoharimran29-glitch)
+
+## Featured Projects
+
+- **[ClipForge](https://github.com/gaoharimran29-glitch/Clip_Forge)** — AI short-clip generator using **LangGraph, FFmpeg, Whisper, and Groq**, with asynchronous video processing and real-time rendering progress.
+- **[Grounded LLM QA](https://github.com/gaoharimran29-glitch/Rag-Based-Chatbot-PDF-Web-Assistant-)** — RAG-based QA system using **LLaMA-3.1, LangChain, and ChromaDB/FAISS**, with LLM-as-a-judge evaluation; reduced hallucination rates from **60% to 15%** through retrieval and context optimization.
+- **[Fashion Recommender System](https://github.com/gaoharimran29-glitch/fashion-recommender-system-project)** — Visual recommendation system using a fine-tuned **ResNet50**, deployed as a Dockerized inference service on **AWS EC2** with Nginx and Gunicorn, achieving sub-second inference latency.
+
+## Tech Stack
 
 **AI & ML**
 
@@ -84,19 +113,12 @@ I founded and maintain **[AynOps](https://github.com/AynOps)** — an open-sourc
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <a href="https://pytest.org">
+    <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+  </a>
   <img src="https://img.shields.io/badge/FastMCP-000000?style=for-the-badge&logo=protocols&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-### Current Focus
-
-1. Improving factual grounding in LLM systems
-2. Building production-ready AI pipelines
-3. AI-powered tooling with Model Context Protocol (MCP)
-4. Strengthening mathematical foundations of ML
 
 ---
 
@@ -112,22 +134,6 @@ I founded and maintain **[AynOps](https://github.com/AynOps)** — an open-sourc
 </p>
 
 ---
-
-### Philosophy
-
-<p align="center">
-  <b>Build > Consume &nbsp;·&nbsp; Systems > Scripts &nbsp;·&nbsp; Depth > Hype</b>
-</p>
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gaohar-imran-5a4063379/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 <p align="center">
   ⭐ If something in my repositories helped you, consider giving it a star — it means a lot!
