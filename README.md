@@ -62,7 +62,7 @@ As a maintainer, I:
 * Review and test community [**pull requests**](https://github.com/AynOps/AynOps/pulls)
 * Maintain and expand the project's [**test suite**](https://github.com/AynOps/AynOps/tree/main/tests)
 * Improve [**documentation**](https://github.com/AynOps/AynOps#readme) and contributor experience
-* Help contributors understand issues and make focused contributions
+* Help contributors understand issues and make focused contributions through [discussions](https://github.com/orgs/AynOps/discussions)
 * Maintain the project's [**architecture and MCP tools**](https://github.com/AynOps/AynOps/tree/main/tools)
 * Maintain [**CI workflows and automated checks**](https://github.com/AynOps/AynOps/tree/main/.github/workflows)
 * Track project development through [**releases and changes**](https://github.com/AynOps/AynOps/releases)
