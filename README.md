@@ -78,6 +78,7 @@ As a maintainer, I:
 
 ## Featured Projects
 
+- **[RizqAI](https://github.com/gaoharimran29-glitch/RizqAI)** — Multi-agent financial analysis platform using **LangGraph, LangChain, Langsmith and Gemini**, with specialized agents for planning, research, risk assessment, adversarial debate, and investment thesis generation, backed by **stateful workflows and SQLite checkpointing**.
 - **[RoasterBro](https://github.com/gaoharimran29-glitch/Roasterbro)** - AI-powered CLI for repository intelligence and developer interrogation, combining multi-signal codebase analysis, Git insights, dependency analysis, and LLM-powered 3-round ragebait reasoning with support for local Ollama and cloud models.
 - **[ClipForge](https://github.com/gaoharimran29-glitch/Clip_Forge)** — AI short-clip generator using **LangGraph, FFmpeg, Whisper, and Groq**, with asynchronous video processing and real-time rendering progress.
 - **[Grounded LLM QA](https://github.com/gaoharimran29-glitch/Rag-Based-Chatbot-PDF-Web-Assistant-)** — RAG-based QA system using **LLaMA-3.1, LangChain, and ChromaDB/FAISS**, with LLM-as-a-judge evaluation; reduced hallucination rates from **60% to 15%** through retrieval and context optimization.
