@@ -71,7 +71,6 @@ As a maintainer, I:
 
 ### Contributions
 
-- **[DUFormFix](https://github.com/gaoharimran29-glitch/DuFormFix)** — Free Chrome extension that adds searchable functionality to Delhi University examination form dropdowns, helping students quickly find subjects by name or code instead of manually scrolling through long option lists.
 - **[LogLense](https://github.com/InukaWijerathna/LogLense)** — Contributor. Added **8+ new CLI subcommands** across repository scanning, log parsing, filtering, file statistics, language detection, Git analysis, and monitoring workflows. Improved command-line usability with new options, output handling, and UI/UX enhancements, while adding and updating tests to ensure the new functionality remains reliable.
 - **[py-simple-wrap](https://github.com/sara-czasak/py-simple-wrap)** — Collaborator. Contributed **utility functions and test coverage** to improve the project's functionality and reliability. Worked on edge cases and validation through automated tests, helping strengthen the library's behavior and maintainability.
 - **[anthropics/modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector)** — Investigated and reported a [JSON editor serialization bug affecting nullable parameters](https://github.com/modelcontextprotocol/inspector/issues/1885), where null values could be transformed into incorrectly escaped JSON through repeated editing. Documented the reproduction steps, expected vs. actual behavior, and impact to help maintainers reproduce and resolve the issue.
@@ -79,6 +78,7 @@ As a maintainer, I:
 
 ## Featured Projects
 
+- **[DUFormFix](https://github.com/gaoharimran29-glitch/DuFormFix)** — Free Chrome extension that adds searchable functionality to Delhi University examination form dropdowns, helping students quickly find subjects by name or code instead of manually scrolling through long option lists.
 - **[RizqAI](https://github.com/gaoharimran29-glitch/RizqAI)** — Multi-agent financial analysis platform using **LangGraph, LangChain, Langsmith and Gemini**, with specialized agents for planning, research, risk assessment, adversarial debate, and investment thesis generation, backed by **stateful workflows and SQLite checkpointing**.
 - **[RoasterBro](https://github.com/gaoharimran29-glitch/Roasterbro)** - AI-powered CLI for repository intelligence and developer interrogation, combining multi-signal codebase analysis, Git insights, dependency analysis, and LLM-powered 3-round ragebait reasoning with support for local Ollama and cloud models.
 - **[ClipForge](https://github.com/gaoharimran29-glitch/Clip_Forge)** — AI short-clip generator using **LangGraph, FFmpeg, Whisper, and Groq**, with asynchronous video processing and real-time rendering progress.
